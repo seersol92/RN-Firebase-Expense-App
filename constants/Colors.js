@@ -11,4 +11,10 @@ export default {
   warningText: '#666804',
   noticeBackground: tintColor,
   noticeText: '#fff',
+  appMainColor: '#3bb44a',
+  appMainColorLight: '#46c256',
+  borderColor: '#ced4da', //Input Border Color
+  disabledInput: '#f0f0f0',
+  bgColor: '#f8fafb',
+  infoBackground: '#d9edf7'
 };
